@@ -1,0 +1,20 @@
+git add *
+
+git commit -m "20251226"
+
+git push -u origin master
+
+f33 세무사랑서버컴 > E:\하나세무회계사무소 2202~\git검토사전엑셀
+↓ 
+(git pull)
+f40 vmware > C:\review_excel\git검토사전엑셀
+↓ 
+(드래그 앤 드랍; 덮어쓰기)
+f40 vmware > C:\projects\myapi2410\myapp
+↓ 
+(git pull)
+맥미니 > (myapi) iseung-yong@iseung-yong-ui-Macmini myapi2410 %
+↓ 
+(cd myapp)
+맥미니 > (myapi) iseung-yong@iseung-yong-ui-Macmini myapp %
+
